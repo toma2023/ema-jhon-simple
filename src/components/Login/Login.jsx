@@ -1,9 +1,10 @@
 import React from 'react';
+import './Login.css'
 
 const Login = () => {
     return (
         <div>
-         <h2>log in</h2>   
+         <h2>log in coming soon</h2>   
         </div>
     );
 };
